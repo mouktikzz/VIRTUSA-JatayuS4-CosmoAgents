@@ -13,7 +13,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 
-[🚀 Live Demo](#https://app.netlify.com/projects/sybase-oracle/overview) • [📖 Documentation](./docs/MAIN-README.md) • [🔧 API](./docs/api/README.md) • [💬 Support](#support)
+[🚀 Live Demo](https://app.netlify.com/projects/sybase-oracle/overview) • [📖 Documentation](./docs/MAIN-README.md) • [🔧 API](./docs/api/README.md) • [💬 Support](#support)
 
 </div>
 
