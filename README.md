@@ -198,7 +198,7 @@ Our comprehensive documentation covers every aspect of the migration tool:
 ## 🏆 Hackathon Journey
 
 ### Team: CosmoAgents
-- **Project Duration**: 48 hours
+- **Project Duration**: 2 Months
 - **Challenge**: Database Migration Automation
 - **Innovation**: AI-Powered Code Conversion
 - **Impact**: 95%+ accuracy in syntax conversion
