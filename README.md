@@ -83,7 +83,7 @@ Our AI-powered migration tool addresses these challenges by:
 
 ## 🎬 Demo Video
 
-[Watch our project demo video here](#) *(Link to be added)*
+[Watch our project demo video here](https://drive.google.com/file/d/1DQp7Iz4fcHxnBFxpYiGcOSLmxb7ujpkd/view)
 
 ## 📊 Project Metrics
 
