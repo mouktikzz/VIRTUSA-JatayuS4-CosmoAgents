@@ -239,7 +239,7 @@ Our comprehensive documentation covers every aspect of the migration tool:
 
 ## 📄 License
 
-This project is proprietary. See the main repository for license information.
+This project is licensed under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
