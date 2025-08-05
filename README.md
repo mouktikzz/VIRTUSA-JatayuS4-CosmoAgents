@@ -71,7 +71,7 @@ Our AI-powered migration tool addresses these challenges by:
 
 ## 🚀 Live Demo
 
-**Website URL**: [https://oracle-ai-migrate.netlify.app](https://oracle-ai-migrate.netlify.app)
+**Website URL**: [https://sybase-oracle.netlify.app](https://sybase-oracle.netlify.app)
 
 **Demo Credentials**:
 - **Email**: thegeek370@gmail.com
